@@ -1,0 +1,29 @@
+
+
+Module400022Name=Numeración series
+Module400022Desc=Módulo para generación de números de serie
+NumberseriesSetup=Configuración del módulo de numeración de series
+Settings=Configuración
+Numberseries=Numeración series
+
+TypeDoc=Tipo de documento
+DefaultSerie=Serie predeterminada
+AddNumberseries=Añadir nueva serie
+ListOfNumberSeries=Listado números de serie
+
+NumberseriesUpdated=Serie actualizada
+DeleteOK=Serie eliminada
+NumberseriesCreated=Serie creada
+DeleteNumberseries=Borrar serie
+ConfirmDeleteNumberseries=¿Desea eliminar esta serie?
+
+GoToNumberseriesConf=<a href="%s" target="_blank">Configuración del módulo de series de numeración</a>
+
+NumberseriesDoc1=Factura a cliente
+NumberseriesDoc2=Factura de proveedor
+NumberseriesDoc3=Pedido de cliente
+NumberseriesDoc4=Pedido a proveedor
+NumberseriesDoc5=Presupuesto
+
+#About
+AboutInfo=Dolibarr

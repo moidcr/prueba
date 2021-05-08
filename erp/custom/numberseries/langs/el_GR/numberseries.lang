@@ -1,0 +1,27 @@
+
+
+Module400022Name=Αριθμοδοτικές σειρές
+Module400022Desc=Module για τη δημιουργία σειριακών αριθμών
+NumberseriesSetup=Διαμόρφωση των αριθμοδεικτών σειρών
+Settings=Ρυθμίσεις
+Numberseries=Αριθμοδοτικές σειρές
+
+TypeDoc=Είδος παραστατικού
+DefaultSerie=Προεπιλεγμένη σειρά
+AddNumberseries=Προσθήκη νέας σειράς
+ListOfNumberSeries=Λίστα σειριακών αριθμών
+
+NumberseriesUpdated=Η σειρά ενημερώθηκε
+DeleteOK=Η σειρά αφαιρέθηκε
+NumberseriesCreated=Η σειρά δημιουργήθηκε
+DeleteNumberseries=Διαγραφή σειράς
+ConfirmDeleteNumberseries=Διαγραφή αυτής της σειράς;
+
+GoToNumberseriesConf=<a href="%s" target="_blank">Διαμόρφωση των αριθμοδεικτών σειρών</a>
+
+NumberseriesDoc1=Τιμολόγιο Πελατών
+NumberseriesDoc2=Τιμολόγιο Προμηθευτών
+NumberseriesDoc3=Παραγγελία Πελατών
+NumberseriesDoc4=Παραγγελία Προμηθευτών
+NumberseriesDoc5=Προσφορά
+

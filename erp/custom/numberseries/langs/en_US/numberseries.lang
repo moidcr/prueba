@@ -1,0 +1,27 @@
+
+
+Module400022Name=Numbering series
+Module400022Desc=Module for generating serial numbers
+NumberseriesSetup=Configuration of series numbering
+Settings=Settings
+Numberseries=Numbering series 
+
+TypeDoc=Document Type
+DefaultSerie=Default Serie
+AddNumberseries=Add new serie
+ListOfNumberSeries=List serial numbers
+
+NumberseriesUpdated=Series updated 
+DeleteOK=Series removed 
+NumberseriesCreated=Series created 
+DeleteNumberseries=Delete series
+ConfirmDeleteNumberseries=Delete this series?
+
+GoToNumberseriesConf=<a href="%s" target="_blank">Configuration of numbering series</a>
+
+NumberseriesDoc1=Customer Invoice
+NumberseriesDoc2=Supplier Invoice 
+NumberseriesDoc3=Customer Order
+NumberseriesDoc4=Supplier Order
+NumberseriesDoc5=Proposal
+

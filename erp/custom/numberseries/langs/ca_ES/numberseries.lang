@@ -1,0 +1,27 @@
+
+
+Module400022Name=Numeració sèries
+Module400022Desc=Mòdul per generar números de sèrie
+NumberseriesSetup=Configuració del mòdul de numeració de sèries
+Settings=Configuració
+Numberseries=Numeració sèries
+
+TypeDoc=Tipus de document
+DefaultSerie=Sèrie predeterminada
+AddNumberseries=Afegir nova sèrie
+ListOfNumberSeries=Llistat números de sèrie
+
+NumberseriesUpdated=Sèrie actualitzada
+DeleteOK=Sèrie eliminada
+NumberseriesCreated=Sèrie creada
+DeleteNumberseries=Borrar sèrie
+ConfirmDeleteNumberseries=Desitja eliminar aquesta sèrie?
+
+GoToNumberseriesConf=<a href="%s" target="_blank">Configuració del mòdul de sèries de numeració</a>
+
+NumberseriesDoc1=Factura a client
+NumberseriesDoc2=Factura de proveïdor
+NumberseriesDoc3=Comanda de client
+NumberseriesDoc4=Comanda a proveïdor
+NumberseriesDoc5=Pressupost
+

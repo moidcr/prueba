@@ -1,0 +1,1 @@
+ALTER TABLE llx_numberseries ADD UNIQUE INDEX uk_numberseries_ref (ref, entity);
